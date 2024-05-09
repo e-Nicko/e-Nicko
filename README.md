@@ -1,4 +1,4 @@
-# Hello, I'm Nickolai Yegorov 👋
+# Hello, I'm Nickolai Yegorov 
 
 ## About Me
 I am a multidisciplinary designer, CG artist, and full-stack web developer. 
