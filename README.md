@@ -4,6 +4,10 @@
 I am a multidisciplinary designer, CG artist, and full-stack web developer. 
 I go by the alias e-Nicko, and I am passionate about blending design and technology to create immersive and functional digital experiences.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Nicko&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### What I Do
 I enjoy creating:
 - **Websites**: Engaging, responsive designs optimized for performance and user experience.
