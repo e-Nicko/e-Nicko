@@ -4,8 +4,6 @@
 I am a multidisciplinary designer, CG artist, and full-stack web developer. 
 I go by the alias e-Nicko, and I am passionate about blending design and technology to create immersive and functional digital experiences.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Nicko&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ### What I Do
@@ -20,6 +18,8 @@ I enjoy creating:
 - **Interior Design**: Spaces that reflect modern sensibilities and comfort.
 - **Architecture**: Merging functionality with innovative design.
 
+
+
 ### My Work
 My projects are a blend of creativity and technology, each crafted with care and precision. 
 You can see my work on [Behance](https://www.behance.net/Nickolai).
@@ -27,6 +27,13 @@ You can see my work on [Behance](https://www.behance.net/Nickolai).
 ### Contact Me
 Feel free to reach out for collaborations or just a chat:
 - Email: e-Nicko@ya.ru
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nickolaiyegorov)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/e_Nicko)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Nicko&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
