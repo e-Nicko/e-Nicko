@@ -4,7 +4,8 @@
 I am a multidisciplinary designer, CG artist, and full-stack web developer. 
 I go by the alias e-Nicko, and I am passionate about blending design and technology to create immersive and functional digital experiences.
 
-[<img src="https://github.com/e-Nicko/e-Nicko/blob/main/let-me-play.gif" width="100%" />](https://www.linkedin.com/in/nickolaiyegorov](https://dribbble.com/Nicko)
+<img src="https://github.com/e-Nicko/e-Nicko/blob/main/let-me-play.gif" width="100%" />
+https://dribbble.com/Nicko
 
 ### What I Do
 I enjoy creating:
@@ -28,8 +29,9 @@ You can see my work on [Behance](https://www.behance.net/Nickolai).
 Feel free to reach out for collaborations or just a chat:
 - Email: e-Nicko@ya.ru
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nickolaiyegorov)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/e_Nicko)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickolaiyegorov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/e_Nicko)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Nicko)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Nicko&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
