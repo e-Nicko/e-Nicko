@@ -1,6 +1,5 @@
 # Hello, I'm Nickolai Yegorov 
 
-## About Me
 I am a multidisciplinary designer, CG artist, and full-stack web developer. 
 I go by the alias e-Nicko, and I am passionate about blending design and technology to create immersive and functional digital experiences.
 
