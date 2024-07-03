@@ -3,7 +3,9 @@
 I am a multidisciplinary designer, CG artist, and full-stack web developer. 
 I go by the alias e-Nicko, and I am passionate about blending design and technology to create immersive and functional digital experiences.
 
+<a href="https://dribbble.com/Nicko" target="_blank">
 <img src="https://github.com/e-Nicko/e-Nicko/blob/main/let-me-play.gif" width="100%" />
+</a>
 https://dribbble.com/Nicko
 
 ### What I Do
