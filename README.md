@@ -16,10 +16,6 @@ I enjoy creating:
 - **Graphics Design**: From logos to complete brand identities.
 - **Digital Art**: Exploring the artistic side of digital creativity.
 - **3D Graphics**: Bringing ideas to life with dimensional depth.
-- **Industrial Design**: Functional designs with an aesthetic appeal.
-- **Interior Design**: Spaces that reflect modern sensibilities and comfort.
-- **Architecture**: Merging functionality with innovative design.
-
 
 
 ### My Work
