@@ -2,6 +2,7 @@
 
 I am a multidisciplinary designer, CG artist, and full-stack web developer. 
 I go by the alias e-Nicko, and I am passionate about blending design and technology to create immersive and functional digital experiences.
+I'm currently focused on exploring the possibilities of creating applications with AI functionality.
 
 <a href="https://dribbble.com/Nicko" target="_blank">
 <img src="https://github.com/e-Nicko/e-Nicko/blob/main/let-me-play.gif" width="100%" />
@@ -12,6 +13,7 @@ https://dribbble.com/Nicko
 I enjoy creating:
 - **Websites**: Engaging, responsive designs optimized for performance and user experience.
 - **Applications**: Full-stack development from back-end logic to front-end aesthetics.
+- **AI-Powered Applications**: Researching and building applications with AI functionality.
 - **UI/UX**: User interfaces that are intuitive and pleasing to use.
 - **Graphics Design**: From logos to complete brand identities.
 - **Digital Art**: Exploring the artistic side of digital creativity.
@@ -34,21 +36,3 @@ Feel free to reach out for collaborations or just a chat:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Nicko&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-<!--
-**e-Nicko/e-Nicko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
