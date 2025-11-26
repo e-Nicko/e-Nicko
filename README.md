@@ -35,4 +35,3 @@ Feel free to reach out for collaborations or just a chat:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e-Nicko&hide_progress=false&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
