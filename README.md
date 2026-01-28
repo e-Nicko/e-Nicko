@@ -1,23 +1,28 @@
 # Hello, I'm Nickolai Yegorov 
 
-I am a multidisciplinary designer, CG artist, and full-stack web developer. 
+I am a polymath: multidisciplinary designer and full-stack web development adventures. 
 I go by the alias e-Nicko, and I am passionate about blending design and technology to create immersive and functional digital experiences.
-I'm currently focused on exploring the possibilities of creating applications with AI functionality.
+I’ve seen frameworks rise and fall, but the fundamentals remain. Now leveraging a decade of full-stack expertise to build autonomous agentic systems.
 
 <a href="https://dribbble.com/Nicko" target="_blank">
 <img src="https://github.com/e-Nicko/e-Nicko/blob/main/let-me-play.gif" width="100%" />
 </a>
 https://dribbble.com/Nicko
 
+- Frontend: Next.js, React, TypeScript, SASS, Framer Motion.
+- Backend: Python (FastAPI, Pydantic), AI Agents orchestration, RAG.
+- Infrastructure: Monorepos (Turborepo), Microservices architectures, Docker, CI/CD.
+- Legacy Wisdom: Deep understanding of the DOM, browser engines, and core web principles.
+
 ### What I Do
 I enjoy creating:
-- **Websites**: Engaging, responsive designs optimized for performance and user experience.
-- **Applications**: Full-stack development from back-end logic to front-end aesthetics.
+- **Web**: Engaging, responsive, motion driven UX.
+- **Apps**: Full-stack development from back-end logic to front-end aesthetics.
 - **AI-Powered Applications**: Researching and building applications with AI functionality.
 - **UI/UX**: User interfaces that are intuitive and pleasing to use.
 - **Graphics Design**: From logos to complete brand identities.
 - **Digital Art**: Exploring the artistic side of digital creativity.
-- **3D Graphics**: Bringing ideas to life with dimensional depth.
+- **3D Graphics**: Digital Humans, Blender, UE, WEBGL.
 
 
 ### My Work
