@@ -13,7 +13,8 @@ https://dribbble.com/Nicko
 
 ---
 
-- Frontend: Next.js, React, TypeScript, SASS, Framer Motion.
+### Webdev stack
+- Frontend: Next.js, React, TS, SASS, Framer Motion.
 - Backend: Python (FastAPI, Pydantic), AI Agents orchestration, RAG.
 - Infrastructure: Monorepos (Turborepo), Microservices architectures, Docker, CI/CD.
 - Legacy Wisdom: Deep understanding of the DOM, browser engines, and core web principles.
