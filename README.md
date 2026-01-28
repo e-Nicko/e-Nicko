@@ -7,7 +7,11 @@ I’ve seen frameworks rise and fall, but the fundamentals remain. Now leveragin
 <a href="https://dribbble.com/Nicko" target="_blank">
 <img src="https://github.com/e-Nicko/e-Nicko/blob/main/let-me-play.gif" width="100%" />
 </a>
+
+
 https://dribbble.com/Nicko
+
+---
 
 - Frontend: Next.js, React, TypeScript, SASS, Framer Motion.
 - Backend: Python (FastAPI, Pydantic), AI Agents orchestration, RAG.
