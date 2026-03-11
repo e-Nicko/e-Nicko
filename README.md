@@ -1,6 +1,6 @@
 # Hello, I'm Nickolai Yegorov 
 
-I am a polymath: multidisciplinary designer and full-stack web development adventures. 
+I am a polymath: multidisciplinary designer and full-stack web developer. 
 I go by the alias e-Nicko, and I am passionate about blending design and technology to create immersive and functional digital experiences.
 I’ve seen frameworks rise and fall, but the fundamentals remain. Now leveraging a decade of full-stack expertise to build autonomous agentic systems.
 
