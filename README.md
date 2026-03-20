@@ -15,7 +15,7 @@ https://dribbble.com/Nicko
 
 ### Webdev stack
 - Frontend: Next.js, React, TS, SASS, Framer Motion.
-- Backend: Python (FastAPI, Pydantic), AI Agents orchestration, RAG.
+- Backend: Python (FastAPI, LangGraph), AI Agents orchestration, GraphRAG.
 - Infrastructure: Monorepos (Turborepo), Microservices architectures, Docker, CI/CD.
 - Legacy Wisdom: Deep understanding of the DOM, browser engines, and core web principles.
 
